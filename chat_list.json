@@ -1,11 +1,11 @@
 [
     {
-        "source": "-1002071225072",
+        "source": "-1002011197490",
         "destinations": ["yourgroupid(forleech)"],
         "prefix": "0" 
     },
     {
-        "source": "-1002075846094",
+        "source": "-1002011197490",
         "destinations": ["yourgroupid(forleech)"],
         "prefix": "0" 
     }
