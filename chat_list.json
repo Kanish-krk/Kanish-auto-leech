@@ -1,17 +1,17 @@
 [
     {
         "source": "-1002075846094",
-        "destinations": ["-1002052690511"],
+        "destinations": ["-1002011197490"],
         "prefix": "0" 
     },
     {
         "source": "-1002071225072",
-        "destinations": ["-1002052690511"],
+        "destinations": ["-1002011197490"],
         "prefix": "0" 
     },
     {
-        "source": "-1001925795519",
-        "destinations": ["-1002052690511"],
+        "source": "-1001530946534",
+        "destinations": ["-1002011197490"],
         "prefix": "0" 
     }
 ]
